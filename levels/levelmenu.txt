@@ -1,0 +1,135 @@
+level info:
+//Free space
+BEGIN
+scale_factor 2 2 //Used to change scale of map coordinates
+player_pos 1962 11 //Set the starting position of the player
+connection_cut_off 0 //Max distance between two connected points
+edge_extra 100 //Extra width to one side based on the other side's edges, in pixels (Only the bottom layer is allowed within this region)
+wrap_space 2 //Space in x-axis between last coordinate and repeat of first coordinate
+edge_border_position 0 2446 //Level soft border, left and right
+soft_border_length 100 //Length of where static noise area
+hard_border_position -200 2646 //Level edges, left and right
+sky_height 1000 //Additional height before height limit
+v 0 837
+v 21 841
+v 60 841
+v 75 844
+v 99 854
+v 125 860
+v 145 865
+v 170 859
+v 192 853
+v 219 854
+v 232 858
+v 266 858
+v 279 861
+v 298 878
+v 314 881
+v 337 878
+v 348 877
+v 352 864
+v 358 861
+v 375 855
+v 394 846
+v 420 833
+v 436 826
+v 441 816
+v 442 802
+v 449 804
+v 463 809
+v 475 816
+v 478 825
+v 491 833
+v 498 838
+v 504 847
+v 519 849
+v 536 853
+v 557 854
+v 582 855
+v 588 854
+v 604 852
+v 620 856
+v 629 862
+v 635 873
+v 654 879
+v 676 879
+v 696 871
+v 709 867
+v 728 852
+v 739 847
+v 763 848
+v 775 846
+v 793 847
+v 823 848
+v 832 852
+v 848 853
+v 853 861
+v 868 861
+v 889 857
+v 911 855
+v 931 847
+v 947 843
+v 965 842
+v 970 846
+v 979 846
+v 1262 846
+v 1280 846
+v 1291 842
+v 1314 833
+v 1323 831
+v 1343 831
+v 1354 836
+v 1368 849
+v 1374 852
+v 1390 853
+v 1410 857
+v 1425 856
+v 1432 852
+v 1439 847
+v 1449 851
+v 1461 865
+v 1475 875
+v 1495 886
+v 1513 890
+v 1531 889
+v 1542 887
+v 1554 878
+v 1579 877
+v 1584 882
+v 1604 882
+v 1613 875
+v 1623 867
+v 1640 864
+v 1651 853
+v 1677 835
+v 1688 830
+v 1702 830
+v 1722 834
+v 1738 837
+v 1749 834
+v 1758 825
+v 1772 825
+v 1805 824
+v 1824 815
+v 1843 817
+v 1860 821
+v 1888 829
+v 1921 842
+v 1953 851
+v 1980 854
+v 2024 856
+v 2056 857
+v 2076 850
+v 2089 850
+v 2108 854
+v 2129 856
+v 2142 852
+v 2240 851
+v 2250 857
+v 2271 865
+v 2349 865
+v 2364 862
+v 2384 848
+v 2407 846
+v 2423 843
+v 2446 841

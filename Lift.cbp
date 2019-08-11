@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Lift" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Start">
+				<Option output="Lift" prefix_auto="1" extension_auto="1" />
+				<Option object_output="C:\erikprogram\Lift\Lift - NEW\.objs" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add directory="dll" />
+					<Add directory="..\..\Lift - NEW\dll" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Linker>
+			<Add library="C:\Program Files (x86)\CodeBlocks\MinGW\lib\libSOIL.a" />
+			<Add library="C:\Program Files (x86)\CodeBlocks\MinGW\lib\libBox2D.a" />
+			<Add library="C:\Program Files (x86)\CodeBlocks\MinGW\lib\OpenAL32.lib" />
+			<Add library="C:\Program Files (x86)\CodeBlocks\MinGW\lib\XInput32.lib" />
+			<Add library="C:\Program Files (x86)\CodeBlocks\MinGW\lib\XInput64.lib" />
+			<Add library="opengl32" />
+			<Add library="glu32" />
+			<Add library="gdi32" />
+			<Add library="C:\Program Files (x86)\CodeBlocks\MinGW\lib\ogg.lib" />
+			<Add library="C:\Program Files (x86)\CodeBlocks\MinGW\lib\vorbis.lib" />
+			<Add library="C:\Program Files (x86)\CodeBlocks\MinGW\lib\vorbisfile.lib" />
+		</Linker>
+		<Unit filename="MyContactListener.cpp" />
+		<Unit filename="MyContactListener.h" />
+		<Unit filename="MyQueryCallback.cpp" />
+		<Unit filename="MyQueryCallback.h" />
+		<Unit filename="MyRayCastCallback.cpp" />
+		<Unit filename="MyRayCastCallback.h" />
+		<Unit filename="base64.cpp" />
+		<Unit filename="base64.h" />
+		<Unit filename="definitions.h" />
+		<Unit filename="enemy.cpp" />
+		<Unit filename="enemy.h" />
+		<Unit filename="files_in_text.cpp" />
+		<Unit filename="files_in_text.h" />
+		<Unit filename="game.cpp" />
+		<Unit filename="game.h" />
+		<Unit filename="gamepad.cpp" />
+		<Unit filename="gamepad.h" />
+		<Unit filename="gear.cpp" />
+		<Unit filename="gear.h" />
+		<Unit filename="hud.cpp" />
+		<Unit filename="hud.h" />
+		<Unit filename="level_data.cpp" />
+		<Unit filename="level_data.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="main_ship.cpp" />
+		<Unit filename="main_ship.h" />
+		<Unit filename="object.cpp" />
+		<Unit filename="object.h" />
+		<Unit filename="particle_engine.cpp" />
+		<Unit filename="particle_engine.h" />
+		<Unit filename="player.cpp" />
+		<Unit filename="player.h" />
+		<Unit filename="resource.h" />
+		<Unit filename="resource.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="sound.cpp" />
+		<Unit filename="sound.h" />
+		<Unit filename="sound_list.h" />
+		<Unit filename="star_map.cpp" />
+		<Unit filename="star_map.h" />
+		<Unit filename="weapon.cpp" />
+		<Unit filename="weapon.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

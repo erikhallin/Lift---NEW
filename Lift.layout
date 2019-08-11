@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Start" />
+	<File name="MyContactListener.cpp" open="0" top="0" tabpos="18">
+		<Cursor position="17125" topLine="185" />
+	</File>
+	<File name="MyContactListener.h" open="0" top="0" tabpos="18">
+		<Cursor position="1014" topLine="0" />
+	</File>
+	<File name="MyQueryCallback.cpp" open="0" top="0" tabpos="19">
+		<Cursor position="198" topLine="0" />
+	</File>
+	<File name="MyQueryCallback.h" open="0" top="0" tabpos="18">
+		<Cursor position="190" topLine="0" />
+	</File>
+	<File name="MyRayCastCallback.cpp" open="0" top="0" tabpos="20">
+		<Cursor position="342" topLine="0" />
+	</File>
+	<File name="MyRayCastCallback.h" open="0" top="0" tabpos="17">
+		<Cursor position="317" topLine="0" />
+	</File>
+	<File name="definitions.h" open="1" top="0" tabpos="1">
+		<Cursor position="2219" topLine="44" />
+	</File>
+	<File name="enemy.cpp" open="1" top="0" tabpos="12">
+		<Cursor position="2981" topLine="29" />
+	</File>
+	<File name="enemy.h" open="1" top="0" tabpos="11">
+		<Cursor position="341" topLine="0" />
+	</File>
+	<File name="files_in_text.cpp" open="0" top="0" tabpos="22">
+		<Cursor position="6972545" topLine="3531" />
+	</File>
+	<File name="files_in_text.h" open="0" top="0" tabpos="20">
+		<Cursor position="593" topLine="0" />
+	</File>
+	<File name="game.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="6506" topLine="47" />
+	</File>
+	<File name="game.h" open="1" top="0" tabpos="3">
+		<Cursor position="4219" topLine="8" />
+	</File>
+	<File name="gamepad.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="453" topLine="0" />
+	</File>
+	<File name="gamepad.h" open="0" top="0" tabpos="19">
+		<Cursor position="349" topLine="0" />
+	</File>
+	<File name="gear.cpp" open="1" top="0" tabpos="16">
+		<Cursor position="119" topLine="0" />
+	</File>
+	<File name="gear.h" open="1" top="0" tabpos="15">
+		<Cursor position="708" topLine="0" />
+	</File>
+	<File name="hud.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="66830" topLine="32" />
+	</File>
+	<File name="hud.h" open="1" top="0" tabpos="7">
+		<Cursor position="1149" topLine="0" />
+	</File>
+	<File name="level_data.cpp" open="0" top="0" tabpos="16">
+		<Cursor position="39685" topLine="0" />
+	</File>
+	<File name="level_data.h" open="0" top="0" tabpos="15">
+		<Cursor position="112" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="759" topLine="10" />
+	</File>
+	<File name="main_ship.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="55008" topLine="27" />
+	</File>
+	<File name="main_ship.h" open="1" top="0" tabpos="9">
+		<Cursor position="2353" topLine="0" />
+	</File>
+	<File name="object.cpp" open="1" top="0" tabpos="20">
+		<Cursor position="10779" topLine="0" />
+	</File>
+	<File name="object.h" open="1" top="0" tabpos="19">
+		<Cursor position="587" topLine="0" />
+	</File>
+	<File name="particle_engine.cpp" open="0" top="0" tabpos="18">
+		<Cursor position="2904" topLine="0" />
+	</File>
+	<File name="particle_engine.h" open="0" top="0" tabpos="21">
+		<Cursor position="706" topLine="13" />
+	</File>
+	<File name="player.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="69725" topLine="143" />
+	</File>
+	<File name="player.h" open="1" top="0" tabpos="5">
+		<Cursor position="3267" topLine="0" />
+	</File>
+	<File name="resource.h" open="0" top="0" tabpos="0">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="resource.rc" open="0" top="0" tabpos="0">
+		<Cursor position="23" topLine="0" />
+	</File>
+	<File name="sound.cpp" open="0" top="0" tabpos="13">
+		<Cursor position="18162" topLine="21" />
+	</File>
+	<File name="sound.h" open="1" top="1" tabpos="21">
+		<Cursor position="221" topLine="0" />
+	</File>
+	<File name="sound_list.h" open="0" top="0" tabpos="11">
+		<Cursor position="1155" topLine="0" />
+	</File>
+	<File name="star_map.cpp" open="1" top="0" tabpos="14">
+		<Cursor position="25792" topLine="47" />
+	</File>
+	<File name="star_map.h" open="1" top="0" tabpos="13">
+		<Cursor position="2741" topLine="0" />
+	</File>
+	<File name="weapon.cpp" open="1" top="0" tabpos="18">
+		<Cursor position="184" topLine="0" />
+	</File>
+	<File name="weapon.h" open="1" top="0" tabpos="17">
+		<Cursor position="1254" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,231 @@
+# depslib dependency file v1.0
+1441368818 source:c:\erikprogram\lift\lift - new\main.cpp
+	<iostream>
+	<windows.h>
+	<gl/gl.h>
+	<fcntl.h>
+	<stdio.h>
+	"definitions.h"
+	"game.h"
+	"resource.h"
+
+1440015978 c:\erikprogram\lift\lift - new\definitions.h
+	<sstream>
+	<string>
+	<Box2D/Box2D.h>
+
+1440015978 c:\erikprogram\lift\lift - new\game.h
+	<SOIL/SOIL.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<ctime>
+	<string>
+	<vector>
+	<stdlib.h>
+	<Box2D/Box2D.h>
+	<gl/gl.h>
+	"gamepad.h"
+	"definitions.h"
+	"player.h"
+	"object.h"
+	"MyContactListener.h"
+	"MyRayCastCallback.h"
+	"MyQueryCallback.h"
+	"particle_engine.h"
+	"main_ship.h"
+	"hud.h"
+	"enemy.h"
+	"star_map.h"
+	"sound.h"
+	"base64.h"
+	"files_in_text.h"
+	"level_data.h"
+
+1440093841 source:c:\erikprogram\lift\lift - new\game.cpp
+	"game.h"
+
+1402764144 c:\erikprogram\lift\lift - new\gamepad.h
+	<windows.h>
+	<D3D/XInput.h>
+
+1388793472 source:c:\erikprogram\lift\lift - new\gamepad.cpp
+	"gamepad.h"
+
+1440015229 c:\erikprogram\lift\lift - new\player.h
+	<iostream>
+	<vector>
+	<Box2D/Box2D.h>
+	<gl/gl.h>
+	"MyRayCastCallback.h"
+	"definitions.h"
+	"particle_engine.h"
+	"weapon.h"
+	"gear.h"
+	"sound.h"
+
+1440016704 source:c:\erikprogram\lift\lift - new\player.cpp
+	"player.h"
+
+1439320623 c:\erikprogram\lift\lift - new\object.h
+	<iostream>
+	<vector>
+	<Box2D/Box2D.h>
+	<gl/gl.h>
+	"definitions.h"
+
+1439404099 source:c:\erikprogram\lift\lift - new\object.cpp
+	"object.h"
+
+1419813126 c:\erikprogram\lift\lift - new\mycontactlistener.h
+	<iostream>
+	<vector>
+	<Box2D/Box2D.h>
+	"definitions.h"
+
+1439718461 source:c:\erikprogram\lift\lift - new\mycontactlistener.cpp
+	"MyContactListener.h"
+
+1413042035 c:\erikprogram\lift\lift - new\particle_engine.h
+	<iostream>
+	<gl/gl.h>
+	<time.h>
+	<stdlib.h>
+	<Box2D/Box2D.h>
+	"definitions.h"
+
+1422711096 source:c:\erikprogram\lift\lift - new\particle_engine.cpp
+	"particle_engine.h"
+
+1437937153 c:\erikprogram\lift\lift - new\main_ship.h
+	<iostream>
+	<gl/gl.h>
+	<Box2D/Box2D.h>
+	"particle_engine.h"
+	"MyRayCastCallback.h"
+	"definitions.h"
+
+1439720407 source:c:\erikprogram\lift\lift - new\main_ship.cpp
+	"main_ship.h"
+
+1405968111 c:\erikprogram\lift\lift - new\myraycastcallback.h
+	<Box2D/Box2D.h>
+	<vector>
+	<string>
+	"definitions.h"
+
+1405966662 source:c:\erikprogram\lift\lift - new\myraycastcallback.cpp
+	"MyRayCastCallback.h"
+
+1439839857 c:\erikprogram\lift\lift - new\hud.h
+	<iostream>
+	<vector>
+	<gl/gl.h>
+	"player.h"
+	"weapon.h"
+	"gear.h"
+
+1439839857 source:c:\erikprogram\lift\lift - new\hud.cpp
+	"hud.h"
+
+1437937153 c:\erikprogram\lift\lift - new\weapon.h
+	<iostream>
+	<ctime>
+	<vector>
+	<Box2D/Box2D.h>
+	"MyRayCastCallback.h"
+	"definitions.h"
+
+1437418933 source:c:\erikprogram\lift\lift - new\weapon.cpp
+	"weapon.h"
+
+1437304021 c:\erikprogram\lift\lift - new\enemy.h
+	<iostream>
+	<vector>
+	<string>
+	<gl/gl.h>
+	<Box2D/Box2D.h>
+	"MyRayCastCallback.h"
+	"MyQueryCallback.h"
+	"particle_engine.h"
+	"weapon.h"
+	"gear.h"
+	"sound.h"
+	"definitions.h"
+
+1437588904 source:c:\erikprogram\lift\lift - new\enemy.cpp
+	"enemy.h"
+
+1405956892 c:\erikprogram\lift\lift - new\myquerycallback.h
+	<Box2D/Box2D.h>
+	<vector>
+
+1405955030 source:c:\erikprogram\lift\lift - new\myquerycallback.cpp
+	"MyQueryCallback.h"
+
+1423602286 c:\erikprogram\lift\lift - new\gear.h
+	<iostream>
+	<ctime>
+	<vector>
+	<Box2D/Box2D.h>
+	"definitions.h"
+
+1423603381 source:c:\erikprogram\lift\lift - new\gear.cpp
+	"gear.h"
+
+1437915660 c:\erikprogram\lift\lift - new\star_map.h
+	<iostream>
+	<sstream>
+	<vector>
+	<gl/gl.h>
+	<Box2D/Box2D.h>
+	<math.h>
+	"definitions.h"
+	"sound.h"
+
+1438961261 source:c:\erikprogram\lift\lift - new\star_map.cpp
+	"star_map.h"
+
+1437299883 c:\erikprogram\lift\lift - new\sound.h
+	"sound_list.h"
+	<cstdlib>
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<AL/al.h>
+	<AL/alc.h>
+	<vorbis/vorbisfile.h>
+
+1437829693 c:\erikprogram\lift\lift - new\sound_list.h
+
+1437302570 source:c:\erikprogram\lift\lift - new\sound.cpp
+	<stdio.h>
+	"sound.h"
+
+1430765471 c:\erikprogram\lift\lift - new\resource.h
+
+1430765471 source:c:\erikprogram\lift\lift - new\resource.rc
+	"resource.h"
+
+1366055296 c:\erikprogram\lift\lift - new\base64.h
+	<string>
+
+1439226977 c:\erikprogram\lift\lift - new\files_in_text.h
+	<string>
+	<iostream>
+
+1366055296 source:c:\erikprogram\lift\lift - new\base64.cpp
+	"base64.h"
+	<iostream>
+
+1440011957 source:c:\erikprogram\lift\lift - new\files_in_text.cpp
+	"files_in_text.h"
+
+1431541882 c:\erikprogram\lift\lift - new\level_data.h
+	<string>
+
+1431545473 source:c:\erikprogram\lift\lift - new\level_data.cpp
+	"level_data.h"
+

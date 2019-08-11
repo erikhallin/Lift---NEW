@@ -1,0 +1,265 @@
+level info:
+//Free space
+BEGIN
+scale_factor 5 5 //Used to change scale of map coordinates
+player_pos 960 5 //Set the starting position of the player
+connection_cut_off 150 //Max distance between two connected points
+edge_extra 400 //Extra width to one side based on the other side's edges, in pixels (Only the bottom layer is allowed within this region)
+wrap_space 3 //Space in x-axis between last coordinate and repeat of first coordinate
+edge_border_position 0 2445 //Level soft border, left and right
+soft_border_length 200 //Length of where static noise area
+hard_border_position -400 2845 //Level edges, left and right
+sky_height 1000 //Additional height before height limit
+enemy_pos 1565 655 2
+enemy_pos 1702 613 2
+enemy_pos 1419 586 2
+enemy_pos 1846 489 2
+enemy_pos 1354 439 2
+enemy_pos 2181 347 2
+enemy_pos 2052 333 2
+enemy_pos 315 272 2
+enemy_pos 220 252 2
+enemy_pos 2347 248 2
+enemy_pos 396 243 2
+enemy_pos 491 243 2
+object_pos 1652 671 1
+object_pos 1387 610 1
+object_pos 1864 530 1
+object_pos 2176 391 1
+object_pos 2055 365 1
+object_pos 336 301 1
+object_pos 898 296 1
+object_pos 1118 283 1
+object_pos 617 278 1
+object_pos 2358 269 1
+v 0 312
+v 17 312
+v 34 314
+v 59 312
+v 70 310
+v 89 308
+v 105 307
+v 118 311
+v 130 309
+v 141 312
+v 161 319
+v 172 318
+v 190 324
+v 208 323
+v 218 318
+v 230 316
+v 246 318
+v 254 313
+v 270 314
+v 292 313
+v 304 315
+v 310 320
+v 326 319
+v 343 319
+v 360 317
+v 371 313
+v 392 307
+v 407 294
+v 418 293
+v 427 292
+v 446 297
+v 460 302
+v 474 311
+v 486 318
+v 502 317
+v 517 312
+v 520 306
+v 525 303
+v 534 305
+v 552 304
+v 564 305
+v 576 299
+v 595 297
+v 608 294
+v 629 291
+v 643 296
+v 660 297
+v 668 294
+v 673 289
+v 682 285
+v 702 285
+v 711 286
+v 725 290
+v 738 288
+v 750 288
+v 770 288
+v 790 291
+v 803 289
+v 816 287
+v 829 286
+v 844 295
+v 855 307
+v 870 315
+v 885 316
+v 899 316
+v 916 315
+v 925 319
+v 933 323
+v 948 320
+v 957 315
+v 966 313
+v 981 314
+v 998 313
+v 1008 315
+v 1018 320
+v 1028 323
+v 1043 327
+v 1058 320
+v 1069 314
+v 1080 313
+v 1085 305
+v 1094 300
+v 1113 300
+v 1128 302
+v 1139 303
+v 1148 310
+v 1156 315
+v 1170 316
+v 1176 315
+v 1185 318
+v 1190 326
+v 1196 336
+v 1202 345
+v 1210 357
+v 1223 364
+v 1232 371
+v 1231 384
+v 1237 394
+v 1245 404
+v 1252 416
+v 1250 433
+v 1248 452
+v 1255 459
+v 1260 465
+v 1268 475
+v 1270 489
+v 1275 490
+v 1283 491
+v 1289 500
+v 1294 513
+v 1298 523
+v 1305 530
+CAVE
+v 1315 535
+v 1320 550
+v 1317 563
+v 1319 574
+v 1329 579
+v 1336 586
+v 1343 600
+v 1350 608
+v 1351 623
+v 1359 627
+v 1369 632
+v 1379 640
+v 1387 647
+v 1398 644
+v 1413 643
+v 1426 647
+v 1438 653
+v 1448 658
+v 1458 664
+v 1467 674
+v 1483 676
+v 1496 685
+v 1507 688
+v 1519 691
+v 1530 697
+v 1540 698
+v 1552 703
+v 1561 705
+v 1575 710
+v 1590 713
+v 1602 712
+v 1610 709
+v 1623 705
+v 1634 698
+v 1643 699
+v 1661 698
+v 1678 697
+v 1688 695
+v 1697 688
+v 1706 681
+v 1719 678
+v 1727 676
+v 1737 666
+v 1746 659
+v 1743 646
+v 1747 636
+v 1757 631
+v 1763 619
+v 1771 616
+v 1782 609
+v 1786 600
+v 1792 590
+CAVE
+v 1798 580
+v 1807 577
+v 1818 570
+v 1825 566
+v 1837 565
+v 1851 564
+v 1861 562
+v 1871 555
+v 1877 546
+v 1885 538
+v 1900 534
+v 1905 523
+v 1909 513
+v 1915 504
+v 1929 499
+v 1940 492
+v 1945 484
+v 1954 473
+v 1958 455
+v 1961 442
+v 1961 431
+v 1969 422
+v 1978 412
+v 1986 402
+v 2000 394
+v 2014 390
+v 2025 388
+v 2043 388
+v 2061 385
+v 2075 387
+v 2084 388
+v 2093 388
+v 2107 396
+v 2120 400
+v 2132 406
+v 2144 413
+v 2155 414
+v 2167 420
+v 2176 415
+v 2184 415
+v 2196 408
+v 2204 400
+v 2215 394
+v 2224 389
+v 2231 381
+v 2241 377
+v 2251 368
+v 2256 361
+v 2271 349
+v 2277 339
+v 2288 331
+v 2302 313
+v 2309 307
+v 2323 302
+v 2334 295
+v 2345 296
+v 2363 295
+v 2377 293
+v 2386 288
+v 2391 283
+v 2405 274
+v 2414 268
+v 2428 261
+v 2437 259
+v 2445 260
